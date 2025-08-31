@@ -518,7 +518,7 @@ AcceptButton.MouseButton1Click:Connect(function() notify("Auto accept triggered!
 
 --// Credit
 local CreditLabel = Instance.new("TextLabel")
-CreditLabel.Text = "Tiktok: @yawiyawiyawiz1"
+CreditLabel.Text = "Youtube: @gagopscripts"
 CreditLabel.Font = Enum.Font.GothamBold
 CreditLabel.TextSize = 13
 CreditLabel.TextColor3 = Color3.fromRGB(180, 180, 180)
